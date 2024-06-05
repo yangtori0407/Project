@@ -5,7 +5,7 @@
 //     const [weather, setWeather] = useState(null);
 //     const [error, setError] = useState(false);
 
-//     const APIKey = 'df0044ff4fb762a1c09d857450de6f45'; // Replace with your OpenWeatherMap API key
+//     const APIKey = ''; // Replace with your OpenWeatherMap API key
 
 //     useEffect(() => {
 //         if (navigator.geolocation) {
